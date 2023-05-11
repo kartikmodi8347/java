@@ -1,4 +1,4 @@
-//java file
+
 public class BubbleSort {
   public static void bubbleSort(int[] arr) {
     int n = arr.length;
